@@ -27,12 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
-
----
-
 ## 📫 Connect With Me  
 - 💼 LinkedIn: www.linkedin.com/in/ronak-jangra-89a4a633b  
 - ✉️ Email: ronakjangra7251@gmail.com
