@@ -21,16 +21,4 @@
 
 ---
 
-## 📂 Featured Projects  
-🔹 [HR Analytics Dashboard](#) – Power BI dashboard analyzing attrition & workforce trends   
-🔹 [Machine Learning Project](#) – Predictive model using Python & Scikit-learn  
-
----
-
-## 📫 Connect With Me  
-- 💼 LinkedIn: www.linkedin.com/in/ronak-jangra-89a4a633b  
-- ✉️ Email: ronakjangra7251@gmail.com
-
----
-
 ⚡ *Always open to collaboration and new opportunities in data analytics!*  
